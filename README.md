@@ -8,7 +8,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
- <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+ <a href="https://www.linkedin.com/in/shehnaz-rangrez-3a7228280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
 </a>
 </p>
@@ -25,9 +25,9 @@
 
 ---
 
-### 🧠 Skills
+###  🌟 Skills
 
-| Domain | Tools/Concepts |
+ | Domain | Tools/Concepts |
 |--------|----------------|
 | **Web Development** | HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, MERN Stack |
 | **Programming** | Python, Java, JavaScript, SQL, NoSQL,C++ |
@@ -73,10 +73,10 @@
 
 ### 🎯 Goals for 2025
 
-- 🌱 Dive deeper into full stack development 
-- 🚀 Develop real-world projects
+- 🚀 Dive deeper into full stack development 
+- 🧩 Develop real-world projects
 - 💡 Publish technical tutorials & journey
-- 🧩 Collaborate on open-source
+- 🌱 Collaborate on open-source
 
 ---
 
@@ -90,16 +90,16 @@
 If you ever want:
 
 - 🎯 Custom project sections
-- 🖼 Help with banners/images/website Designing
-- 📝 Crafting Clean and Structured Markdown for Blogs and Resumes
+- 📝 Help with banners/images/website Designing
+- 🖼 Crafting Clean and Structured Markdown for Blogs and Resumes
 - 🤖 Creative project ideas
 
 Just drop me a message anytime — I’m always here to help and collaborate!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Amazing+Together!+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Let's+Code.+Learn.+Repeat.!+💡" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Keep+Learning+💡;Keep+Coding+💻;Keep+Growing+🌱" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Keep+Learning+💡;Grow+with+purpose+🎯;Work+with+passion+💻" alt="Typing SVG" />
 </p>
